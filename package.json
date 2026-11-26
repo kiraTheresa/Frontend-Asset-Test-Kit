@@ -1,0 +1,14 @@
+{
+  "name": "frontend-asset-test-kit",
+  "version": "1.0.0",
+  "private": true,
+  "description": "前端通用测试素材包：脚本参数化生成的标准化测试图片（尺寸标注 + RGB/K 比例方块 + 边框 + 十字辅助线，双主题）",
+  "scripts": {
+    "generate": "node generator/index.js",
+    "verify": "node generator/verify.js",
+    "gallery": "node tools/build-gallery.mjs"
+  },
+  "dependencies": {
+    "sharp": "^0.33.5"
+  }
+}
