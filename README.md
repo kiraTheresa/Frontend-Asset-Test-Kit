@@ -10,7 +10,7 @@
 
 ## 效果预览
 
-**在线 Gallery**：生成素材后运行 `npm run gallery`，浏览器打开 `gallery/index.html`；线上预览见 [Gallery 链接](#)（部署后回填）。
+**在线 Gallery**：[https://37m0vzmsszmxd0f2aj7.traesite.cn](https://37m0vzmsszmxd0f2aj7.traesite.cn)（144 张素材全量预览）；本地运行 `npm run gallery` 后打开 `gallery/index.html`。
 
 每张素材自带尺寸标注、RGB + 黑色四色测试块、边框与中心十字线——任何拉伸、裁切、偏移都能一眼看出：
 
